@@ -7,7 +7,7 @@ fs = 44100
 recording = None
 is_recording = False
 voice_file = "voice_record.wav"  # Записаний голос
-minus_track = "MinusDuHast.mp3"  # Мінусовка
+minus_track = "EMIN.mp3"  # Мінусовка
 
 init()
 mixer.init()
